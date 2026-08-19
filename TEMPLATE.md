@@ -10,7 +10,7 @@
 
 ## ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
+*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournaent.*
 
 #### My Nation & Why:
 
