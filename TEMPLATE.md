@@ -1,9 +1,10 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Madhav Manu — Designer / AI & Automation Builder
+
+### Squad Domain: Designer | FIFA Nation: Brazil
 
 ### About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+> I’m a multidisciplinary designer and builder interested in the intersection of design, technology, AI, and automation. I work across UI/UX design, brand identity, web development, motion design, photography, and AI-powered workflows. I enjoy turning ideas into real, usable products — from interfaces and visual identities to automation pipelines and AI applications. I’m also exploring cybersecurity and full-stack development, continuously expanding from creative work into engineering. I joined μFIFA to compete, collaborate, learn from people across different domains, and prove that a designer can also build the technology behind the experience. My goal is to leave the tournament with stronger skills, meaningful collaborations, and tangible proof of work.
 
 ---
 
@@ -13,97 +14,187 @@
 
 #### My Nation & Why:
 
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
+* **Brazil**
+* Brazil represents the kind of football I enjoy most: creativity, technical ability, individual expression, and attacking mentality. The country's football culture has produced some of the most iconic players and moments in World Cup history. I chose Brazil because of that legacy and because their style reflects something I value in my own work — combining technical skill with creativity and personality.
 
 #### Supporting Team in the Real World Cup 2026:
 
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
+* **Brazil**
+* My μFIFA nation and real-world team are the same. I’m backing Brazil for the 2026 World Cup and hoping they can add another chapter to their already historic World Cup legacy.
 
 #### All-Time Favourite Player:
 
-- Who is your all-time favourite footballer and why?
-- What about their game or story resonates with you?
+* **Neymar Jr.**
+* Neymar is my all-time favourite because of his creativity, flair, technical ability, and willingness to take risks. His ability to create something unexpected from a difficult situation is what makes his game memorable to me. As someone involved in creative work, I relate to that combination of technique and expression.
 
 #### Best Player Right Now:
 
-- Who do you think is the best player in the world at this moment?
-- Make your case.
+* **Kylian Mbappé**
+* Mbappé combines elite pace, finishing, movement, technical ability, and consistency at the highest level. He can change the outcome of a match through individual brilliance while also functioning within a structured system. His trajectory and performances make him one of the defining players of this generation.
 
 #### Past World Cup Memories:
 
-- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
-- Where were you when it happened?
+* **The 2022 FIFA World Cup final**
+* The Argentina vs France final is one of the most memorable World Cup matches because of how dramatically the game changed throughout the 120 minutes and penalty shootout. It had goals, comebacks, pressure, individual brilliance, and an extremely tense finish. It was a reminder of why the World Cup is different from any other football tournament.
 
 #### 2026 Predictions:
 
-- Who wins the FIFA World Cup 2026?
-- Dark horse team to watch?
-- Player who will define this tournament?
-- Which match are you most looking forward to?
+* **Winner:** Brazil
+* **Dark Horse:** Morocco
+* **Player to define the tournament:** Kylian Mbappé
+* **Match I’m most looking forward to:** Any high-stakes knockout-stage match involving Brazil, France, Argentina, Spain, or Portugal.
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
-- What do you want to achieve in μFIFA by the time the final whistle blows?
-- What will you have built, learned, or contributed that you didn't have before?
+* Build and ship meaningful projects rather than only talking about ideas.
+* Improve my ability to work across design, code, AI, and automation.
+* Collaborate with people from different Squad Domains.
+* Contribute useful work to the μLearn community.
+* Build a stronger public portfolio through real proof of work.
+* Learn from other participants and turn those connections into future collaborations.
+* Finish the tournament with projects and skills that I can continue developing after μFIFA.
 
 ---
 
 ## 🏅 Portfolio Highlights
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
-
 #### History of Open Source and Collaborative Contributions:
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+I’m actively building projects across web development, AI, automation, cybersecurity, and design. My work includes experiments with full-stack applications, AI-powered civic platforms, automation workflows, and cybersecurity tools.
+
+I’m particularly interested in contributing more consistently to open-source projects and using μFIFA as an opportunity to turn personal experiments into documented, public proof of work.
 
 #### History of Community Engagement:
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+I have participated in student and technical communities, including μLearn activities, college programs, technical learning communities, cybersecurity platforms, and collaborative projects.
+
+I’m interested in communities where designers, developers, makers, and strategists can work together rather than operating independently. μFIFA is particularly interesting to me because it brings those different disciplines into the same competitive environment.
 
 #### Domain Profiles:
 
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+* **GitHub:** https://github.com/madhavmanu3135
+* **LinkedIn:** https://www.linkedin.com/
+* **Portfolio:** FrameVerse / personal creative portfolio
+* **μLearn:** https://mulearn.org/
 
 #### Tools, Workflows & Automations:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+My workflow combines creative software, development tools, AI systems, and automation platforms.
+
+**Design & Creative**
+
+* Figma
+* Adobe Photoshop
+* Adobe Illustrator
+* Adobe After Effects
+* Adobe Premiere Pro
+* DaVinci Resolve
+* Blender
+* Lightroom
+
+**Development**
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
+* Node.js
+* Python
+* Git & GitHub
+
+**AI & Automation**
+
+* OpenAI APIs
+* AI-assisted development
+* Ollama
+* Llama models
+* Make.com
+* n8n
+* API integrations
+* Webhooks
+* Automation pipelines
+
+**Cybersecurity**
+
+* Kali Linux
+* Nmap
+* TryHackMe
+* PicoCTF
+* Web security testing
+* Vulnerability assessment
+
+I enjoy connecting these tools together to turn repetitive processes into automated systems and ideas into functional prototypes.
 
 #### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+My public work spans UI/UX design, brand identity, photography, motion design, web development, AI automation, and experimental technology projects.
+
+Projects I have worked on include:
+
+* **FrameVerse** — creative portfolio and visual design work.
+* **Sahayi AI** — an AI-assisted civic service concept for simplifying access to Panchayat services.
+* **Sahayi Civic Platform** — a citizen-facing complaint and infrastructure reporting platform.
+* **Operation Toofan** — an interactive drug-free pledge and awareness platform.
+* **Cybersecurity projects** — including vulnerability-scanning and security-learning projects.
+* **AI and automation workflows** — integrating APIs, AI models, webhooks, and automation platforms.
+
+My goal during μFIFA is to turn more of these experiments into polished, public proof of work.
 
 #### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+I am currently pursuing my education in the computer science/technology domain while developing practical skills independently through projects, technical communities, and hands-on experimentation.
+
+My learning focuses on:
+
+* Computer science
+* Web development
+* AI and automation
+* Cybersecurity
+* UI/UX design
+* Motion design
+* Digital media
+
+**GitHub:** https://github.com/madhavmanu3135
+
+**LinkedIn:** https://www.linkedin.com/
 
 #### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+I have taken initiative by starting and developing independent creative and technology projects, organizing ideas into working prototypes, and exploring solutions that combine multiple disciplines.
+
+My approach to leadership is primarily execution-based: identify a problem, build a solution, bring people together when necessary, and continuously improve the result.
+
+During μFIFA, I want to take that further by collaborating with people from different Squad Domains and contributing to projects larger than what I could build alone.
 
 #### Networking:
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+I connect with people through student communities, technical communities, creative communities, hackathons, μLearn activities, and collaborative projects.
+
+I’m particularly interested in meeting:
+
+* Developers who enjoy building products
+* Designers interested in technology
+* AI engineers and automation builders
+* Cybersecurity enthusiasts
+* Makers and hardware innovators
+* People interested in socially useful technology
+
+I want μFIFA to be more than a competition. I want it to become a network of people I can build with long after the tournament ends.
 
 #### Career Plan:
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+**Immediate — Next 6–12 Months**
+
+I want to strengthen my foundations in computer science and software development while continuing to build projects in AI, automation, cybersecurity, web development, and design. My focus is on shipping real projects, improving my technical depth, and building a strong public portfolio.
+
+**Long-Term**
+
+I want to become a multidisciplinary technology builder who can move from product idea → design → engineering → AI integration → automation → deployment.
+
+My long-term goal is to work at the intersection of **design, AI, software engineering, automation, and cybersecurity**, eventually building products and systems that solve practical problems.
+
+μFIFA gives me an opportunity to accelerate that journey through competition, collaboration, public proof of work, and exposure to people with different skills.
 
 ---
 
@@ -112,6 +203,5 @@
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
-    width="400px">
-</img>
+ src="https://mulearn.org/embed/rank/yourname@mulearn"
+ width="400px"> </img>
